@@ -14,6 +14,11 @@ A fusion 360 render can be found [here](https://a360.co/3SQCzxe).
 
 [![Fusion 360 render](media/render.png)](https://a360.co/3SQCzxe)
 
+Optional Minecraft Spider Cover:
+<div align="center">
+    <img src="media/Minecraft Cover Ortho.png" alt="Preview">
+</div>
+
 ## 📋 Bill of Materials
 
 Below is a summary of the components required to build the hexapod:
