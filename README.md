@@ -34,6 +34,7 @@ Below is a summary of the components required to build the hexapod:
 | Electronics | MG996/MG996R Servo | 18 | MG996R are cheaper but less powerful than MG996, they will do nevertheless | About 70€ on Aliexpress |
 | | Servo2040 | 1 | An equivalent board can be used instead e.g. 2x Pololu Mini Maestro | About 28€ on the Pimoroni website |
 | | Raspberry Pi 5 | 1 | Other versions can be used | About 100€ on Amazon |
+| | 2x20 40 Pin Stacking Female Header 2.54mm Pitch Dual Row Extra Tall Headers | 1 | Optional, needed if you want to use a heatsink/fan on the Pi | About 9€ on Amazon |
 | | 7.4V 2S LiPo Battery | 1 | They are often sold in pairs, so I ended up buying two of them for 50€ | About 25€ on Amazon |
 | | 8A UBEC | 2 | You will need two of them, one for the servos and one for the electronics. I used [these ones](https://it.aliexpress.com/item/1005007467083035.html?spm=a2g0o.order_list.order_list_main.58.21ef3696TOL15v&gatewayAdapt=glo2ita): they have two channels with selectable input voltage and a power button. The `battery_mount` has two slots to hold this kind of UBECs | About 20€ each on Aliexpress |
 
