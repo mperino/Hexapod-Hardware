@@ -73,6 +73,7 @@ Make sure to follow the recommended print settings for optimal strength and fitm
 ## 🔧 Servo mod
 
 Servos require a minor modification: replace the bottom section of the plastic housing with a custom 3D-printed part designed to hold the bearing. This modification is fully reversible.
+There are 2 different 3D printable models.  One for bearings with a lip, one for bearings without a lip.
 
 <div align="center">
     <img src="media/servo_pre.jpg" alt="Preview">
